@@ -1,1 +1,0 @@
-Aportación al backend: Rama 1 (Login y Home). Me encargué de programar la pantalla de inicio de sesión para que solo entren los autorizados y también hice el panel principal (home), donde se ven todos los datos del taller y el resumen de los autos
