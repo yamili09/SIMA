@@ -1,0 +1,3 @@
+Nombre: Irad Hernández, 
+Módulo: Alertas e Inventario. 
+Aportación: Creación del controlador de alertas y lógica de inventario.
